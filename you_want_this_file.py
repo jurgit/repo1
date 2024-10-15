@@ -1,20 +1,23 @@
-#mod1
-#mod2
-#mod3
-#mod4
-#mod5
-#mod6
 
-#mod7
 
-#mod8
 
-#mod9
+
 
 
 #gorka1
 #gorka2
 #mod1
+
+
+
+
+#extra lines
+#extra lines2
+
+#line1
+#line2
+#line3
+#this is the feature to be pushed to jurgit
 
 age=2
 if age<0:
@@ -48,9 +51,5 @@ try:
     raise CustomError("This is a custom error!")
 except CustomError as e:
     print(e)
-
-
-#extra lines
-#extra lines2
 
 
